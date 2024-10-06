@@ -35,6 +35,19 @@ You’ve gotta appreciate the effort though—because not everyone can say they 
 Does this beauty have a name, or should we just call it the “Cyberjank”?
 
 #
+### Stainless Sphere Wheels
+
+![Stainless Sphere Wheels](https://github.com/user-attachments/assets/6598c15b-c87f-49f3-8083-7029f1d4624c)
+
+Ah, yes, the ultimate "time-travel steampunk fever dream" with a side of "how do physics even work?" Let’s take a closer look at this beauty.
+
+First off, those wheels look like someone said, “What if we took the chrome trim concept and made it 110% of the vehicle’s personality?” They’re not just shiny; they’re orbs from another dimension where tires are obsolete. Forget about traction; this baby just slides through time and space. Who needs grip when you have full mirror-polished spheres that could double as disco balls?
+
+And the body? Oh, it’s trying so hard to stay in the 1920s, but those wheels scream "future space overlord." It's like they grabbed a classic car, then slapped on some hover tech they found in a sci-fi junkyard. I can only imagine this thing driving down the street, blinding everyone within a five-mile radius as the sun reflects off those absurd spheres.
+
+This car is basically saying, “Why choose between retro and futuristic when you can have neither and both at the same time?”
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
