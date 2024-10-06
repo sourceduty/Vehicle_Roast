@@ -24,7 +24,7 @@ But hey, at least it’s unique. No one’s going to forget seeing this on the r
 #
 ### Fake Cybertruck Example
 
-![Uploading Cybertruck.png…]()
+![Cybertruck](https://github.com/user-attachments/assets/2b90b382-d91b-45a6-8349-61b5c1e0565f)
 
 Ah, the legendary Cybertruck has been reborn… out of plywood, duct tape, and what looks like a Home Depot clearance sale. Is this the "Wooden Edition"? Because it looks like someone took Elon Musk’s futuristic vision, ran it through a time machine to 1985, and came back with a DIY project from a suburban dad who’s just trying his best.
 
