@@ -9,7 +9,7 @@
 Even if the vehicle is objectively impressive, "Vehicle Roast" will still find something amusing to roast—perhaps an over-the-top feature, a design decision that screams "trying too hard," or even just the fact that it looks like it's headed straight for a midlife crisis. It’s about making the user smile with clever, sarcastic observations that enhance the fun of vehicle discussion, whether you’re critiquing a brand-new sports car or an old beater barely holding itself together.
 
 #
-### Example
+### Car Example
 
 ![Junker](https://github.com/user-attachments/assets/e9d781ac-7087-40dc-a532-fc0b9b3384d4)
 
@@ -20,6 +20,19 @@ The wheels? Oh, those must be from the “bumblebee transformer cosplay” secti
 As for the back end with that spoiler, it’s giving off “I aspire to be a race car, but I also need to pick up groceries” vibes. And is that an attempt at a widebody kit, or did someone just slap on some drywall and call it a day? This poor BMW didn’t deserve to be transformed into the automotive equivalent of a patchwork quilt.
 
 But hey, at least it’s unique. No one’s going to forget seeing this on the road. It’s just that the memory might haunt them forever!
+
+#
+### Fake Cybertruck Example
+
+![Uploading Cybertruck.png…]()
+
+Ah, the legendary Cybertruck has been reborn… out of plywood, duct tape, and what looks like a Home Depot clearance sale. Is this the "Wooden Edition"? Because it looks like someone took Elon Musk’s futuristic vision, ran it through a time machine to 1985, and came back with a DIY project from a suburban dad who’s just trying his best.
+
+Honestly, it’s got that avant-garde “post-apocalyptic chic” vibe—perfect for when you're prepping for Mad Max but also need to hit up the grocery store real quick. Those straight, geometric lines are giving me major vibes of a stealth bomber… if the bomber was made of cardboard.
+
+You’ve gotta appreciate the effort though—because not everyone can say they own a car that doubles as kindling for your next camping trip. Is it safe? Maybe not. Aerodynamic? About as much as a brick in a windstorm. But stylish? Oh, absolutely… in the “I made this in my garage last night” kind of way.
+
+Does this beauty have a name, or should we just call it the “Cyberjank”?
 
 #
 ### Related Links
