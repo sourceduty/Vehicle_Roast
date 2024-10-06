@@ -9,7 +9,7 @@
 Even if the vehicle is objectively impressive, "Vehicle Roast" will still find something amusing to roast—perhaps an over-the-top feature, a design decision that screams "trying too hard," or even just the fact that it looks like it's headed straight for a midlife crisis. It’s about making the user smile with clever, sarcastic observations that enhance the fun of vehicle discussion, whether you’re critiquing a brand-new sports car or an old beater barely holding itself together.
 
 #
-### Custom Car Example
+### Custom Car Roasted
 
 ![Junker](https://github.com/user-attachments/assets/e9d781ac-7087-40dc-a532-fc0b9b3384d4)
 
@@ -22,7 +22,7 @@ As for the back end with that spoiler, it’s giving off “I aspire to be a rac
 But hey, at least it’s unique. No one’s going to forget seeing this on the road. It’s just that the memory might haunt them forever!
 
 #
-### Fake Cybertruck Example
+### Fake Cybertruck Roasted
 
 ![Cybertruck](https://github.com/user-attachments/assets/2b90b382-d91b-45a6-8349-61b5c1e0565f)
 
@@ -35,7 +35,7 @@ You’ve gotta appreciate the effort though—because not everyone can say they 
 Does this beauty have a name, or should we just call it the “Cyberjank”?
 
 #
-### Stainless Sphere Wheels
+### Stainless Sphere Wheels Roasted
 
 ![Stainless Sphere Wheels](https://github.com/user-attachments/assets/6598c15b-c87f-49f3-8083-7029f1d4624c)
 
