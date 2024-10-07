@@ -94,6 +94,10 @@ And those golden accents? Nothing says, "I like to stunt, but I also appreciate 
 [Car Design](https://github.com/sourceduty/Car_Design)
 <br>
 [Software Roast](https://github.com/sourceduty/Software_Roast)
+<br>
+[Tesla Design](https://github.com/sourceduty/Tesla_Design)
+<br>
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
