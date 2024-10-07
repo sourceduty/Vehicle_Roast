@@ -1,4 +1,4 @@
-![Vehicle Roast](https://github.com/user-attachments/assets/a283211f-5426-4bed-ae0e-7522efed7b2e)
+![Roasted](https://github.com/user-attachments/assets/6f99a689-dbe5-4358-9cfb-b2d7fae3899c)
 
 > Roast any vehicle with humorous and sharp critiques.
 
@@ -81,6 +81,10 @@ What do you think? Ready to haul some hay bales...or maybe just look good parked
 Oh, look at this clear plastic BMX bike—truly the bicycle equivalent of a transparent raincoat. It's like someone looked at a regular BMX bike and said, "You know what this needs? More 'barely there' vibes." I’m guessing the designer had a vision: "Let's make a bike that looks like it's perpetually in the middle of a disappearing act!" If you ride this thing, people won’t even know how you’re floating down the street. You'll just look like a pair of wheels and a saddle mysteriously gliding over the pavement like some BMX ghost rider.
 
 And those golden accents? Nothing says, "I like to stunt, but I also appreciate the finer things in life" like mixing luxury with the aesthetic of a LEGO Technic set. You could flex on anyone at the skatepark... assuming they can even see it to begin with!
+
+#
+
+![Vehicle Roast](https://github.com/user-attachments/assets/a283211f-5426-4bed-ae0e-7522efed7b2e)
 
 #
 ### Related Links
