@@ -97,6 +97,10 @@ And those golden accents? Nothing says, "I like to stunt, but I also appreciate 
 
 #
 
+![Motorcycle](https://github.com/user-attachments/assets/b6f77be9-36f5-4f91-a2dc-3b7683993791)
+
+#
+
 ![Vehicle Roast](https://github.com/user-attachments/assets/a283211f-5426-4bed-ae0e-7522efed7b2e)
 
 #
