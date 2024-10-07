@@ -22,6 +22,19 @@ As for the back end with that spoiler, it’s giving off “I aspire to be a rac
 But hey, at least it’s unique. No one’s going to forget seeing this on the road. It’s just that the memory might haunt them forever!
 
 #
+### Vintage Dodge Charger Truck Roasted
+
+![Vintage Dodge Charger Truck](https://github.com/user-attachments/assets/79d35177-95eb-4721-8214-f954528cdae4)
+
+Oh wow, what do we have here? It looks like a Dodge Charger and a pickup truck had a wild night together and this was the glorious result! This thing is a Frankenstein’s monster of the muscle car world—half Charger, half truck, and about as subtle as a mullet at a black-tie event.
+
+Let’s start with the front: the classic Charger grille. This thing is screaming, “I’m a muscle car!” with all the enthusiasm of a middle-aged dad in a leather jacket trying to relive his high school glory days. Then you swing around to the back and BAM—pickup truck bed! Because, you know, sometimes after you're done tearing up the quarter-mile, you need to haul a load of mulch home from Home Depot.
+
+And those wheels—spokes so shiny they’re practically blinding. Are you planning on racing this thing or entering it in a disco ball contest? I can’t decide if it’s a lowrider, a muscle car, or the world’s most impractical work truck. You’ve got some serious commitment to confusion here, I’ll give you that.
+
+This vehicle is trying so hard to be everything at once, it’s like the Swiss Army knife of car identities. All that’s missing is a spoiler with an integrated cup holder for your drive-thru coffee. In short, it’s one big “what if” on wheels: what if a Charger could haul hay bales, and what if you cared more about looking ridiculous than practical? Mission accomplished.
+
+#
 ### Fake Cybertruck Roasted
 
 ![Cybertruck](https://github.com/user-attachments/assets/2b90b382-d91b-45a6-8349-61b5c1e0565f)
