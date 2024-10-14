@@ -96,11 +96,8 @@ Oh, look at this clear plastic BMX bike—truly the bicycle equivalent of a tran
 And those golden accents? Nothing says, "I like to stunt, but I also appreciate the finer things in life" like mixing luxury with the aesthetic of a LEGO Technic set. You could flex on anyone at the skatepark... assuming they can even see it to begin with!
 
 #
-
 ![Motorcycle](https://github.com/user-attachments/assets/b6f77be9-36f5-4f91-a2dc-3b7683993791)
-
 #
-
 ![Vehicle Roast](https://github.com/user-attachments/assets/a283211f-5426-4bed-ae0e-7522efed7b2e)
 
 #
@@ -115,6 +112,8 @@ And those golden accents? Nothing says, "I like to stunt, but I also appreciate 
 [Tesla Design](https://github.com/sourceduty/Tesla_Design)
 <br>
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+<br>
+[Vehicle Accessory](https://github.com/sourceduty/Vehicle_Accessory)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
