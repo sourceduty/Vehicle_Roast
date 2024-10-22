@@ -114,6 +114,8 @@ And those golden accents? Nothing says, "I like to stunt, but I also appreciate 
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 <br>
 [Vehicle Accessory](https://github.com/sourceduty/Vehicle_Accessory)
+<br>
+[Stupidity Rating](https://github.com/sourceduty/Stupidity_Rating)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
